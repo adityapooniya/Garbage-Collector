@@ -1,3 +1,9 @@
+// @author - Teja Ram Pooniya
+// @mail - adityapooniya@gmail.com
+// @URL - http://www.docworld.co.in/
+// @year - 2014-2015
+
+
 // A single-threaded garbage collector
 
 
